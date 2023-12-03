@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anaghaa Londhe @analondhe
-- 👀 I’m interested in anything Cloud and Data Related 
-- 📫 How to reach me email: anaghaalondhe7@gmail.com
+- 👀 I’m interested in Cloud and Data Realated topics
+- 📫 How to reach me email: anaghaalondhe7@gmail.com 
 
 <!---
 analondhe/analondhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
