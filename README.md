@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anaghaa Londhe @analondhe
-- 👀 I’m interested in Cloud and Data Realated topics
+- 👀 I’m interested in Cloud and Data Related topics
 - 📫 How to reach me email: anaghaalondhe7@gmail.com 
 
 <!---
